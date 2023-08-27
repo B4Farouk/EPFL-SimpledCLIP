@@ -1,0 +1,7 @@
+# archives
+*.rar
+*.zip
+*.tar.gz
+
+# jupyter notebook
+.ipynb_checkpoints
